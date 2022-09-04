@@ -1,0 +1,7 @@
+{
+  "env" : {
+    "url": "https://alphapay.netlify.app/"
+  },
+  "defaultCommandTimeout" : 50000,
+  "pageLoadTimeout" : 200000
+}

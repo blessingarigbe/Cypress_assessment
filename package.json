@@ -1,0 +1,23 @@
+{
+  "name": "blessing-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmekaKalu/blessing-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmekaKalu/blessing-assessment/issues"
+  },
+  "homepage": "https://github.com/EmekaKalu/blessing-assessment#readme",
+  "dependencies": {
+    "chance": "^1.1.8",
+    "cypress": "^9.6.1"
+  }
+}
