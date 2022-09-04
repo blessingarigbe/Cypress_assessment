@@ -64,6 +64,7 @@ describe('Alpha pay test suite', ()=>{
         fill.email(email)
         fill.password(testData.newPassword)
         click.button('Sign In')
+        cy.logout()
         
     });
 })
